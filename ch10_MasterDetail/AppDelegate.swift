@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  ch10_MasterDetail
+//  ch09-tableViewCollectionView
 //
-//  Created by Jiwon Kim on 5/16/26.
+//  Created by jmleehs on 5/1/26.
 //
 
 import UIKit

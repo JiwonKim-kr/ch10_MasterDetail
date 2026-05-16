@@ -7,32 +7,32 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		F1CFCB3C2FB867E200EE947F /* ch10_MasterDetail.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ch10_MasterDetail.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6C535B972FA42E550041272F /* ch09-tableViewCollectionView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ch09-tableViewCollectionView.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		F1CFCB4E2FB867E300EE947F /* Exceptions for "ch10_MasterDetail" folder in "ch10_MasterDetail" target */ = {
+		6C535BA92FA42E560041272F /* Exceptions for "ch09-tableViewCollectionView" folder in "ch09-tableViewCollectionView" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = F1CFCB3B2FB867E200EE947F /* ch10_MasterDetail */;
+			target = 6C535B962FA42E550041272F /* ch09-tableViewCollectionView */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		F1CFCB3E2FB867E200EE947F /* ch10_MasterDetail */ = {
+		6C535B992FA42E550041272F /* ch09-tableViewCollectionView */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				F1CFCB4E2FB867E300EE947F /* Exceptions for "ch10_MasterDetail" folder in "ch10_MasterDetail" target */,
+				6C535BA92FA42E560041272F /* Exceptions for "ch09-tableViewCollectionView" folder in "ch09-tableViewCollectionView" target */,
 			);
-			path = ch10_MasterDetail;
+			path = "ch09-tableViewCollectionView";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F1CFCB392FB867E200EE947F /* Frameworks */ = {
+		6C535B942FA42E550041272F /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,18 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F1CFCB332FB867E200EE947F = {
+		6C535B8E2FA42E550041272F = {
 			isa = PBXGroup;
 			children = (
-				F1CFCB3E2FB867E200EE947F /* ch10_MasterDetail */,
-				F1CFCB3D2FB867E200EE947F /* Products */,
+				6C535B992FA42E550041272F /* ch09-tableViewCollectionView */,
+				6C535B982FA42E550041272F /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F1CFCB3D2FB867E200EE947F /* Products */ = {
+		6C535B982FA42E550041272F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F1CFCB3C2FB867E200EE947F /* ch10_MasterDetail.app */,
+				6C535B972FA42E550041272F /* ch09-tableViewCollectionView.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,64 +61,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F1CFCB3B2FB867E200EE947F /* ch10_MasterDetail */ = {
+		6C535B962FA42E550041272F /* ch09-tableViewCollectionView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F1CFCB4F2FB867E300EE947F /* Build configuration list for PBXNativeTarget "ch10_MasterDetail" */;
+			buildConfigurationList = 6C535BAA2FA42E560041272F /* Build configuration list for PBXNativeTarget "ch09-tableViewCollectionView" */;
 			buildPhases = (
-				F1CFCB382FB867E200EE947F /* Sources */,
-				F1CFCB392FB867E200EE947F /* Frameworks */,
-				F1CFCB3A2FB867E200EE947F /* Resources */,
+				6C535B932FA42E550041272F /* Sources */,
+				6C535B942FA42E550041272F /* Frameworks */,
+				6C535B952FA42E550041272F /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				F1CFCB3E2FB867E200EE947F /* ch10_MasterDetail */,
+				6C535B992FA42E550041272F /* ch09-tableViewCollectionView */,
 			);
-			name = ch10_MasterDetail;
+			name = "ch09-tableViewCollectionView";
 			packageProductDependencies = (
 			);
-			productName = ch10_MasterDetail;
-			productReference = F1CFCB3C2FB867E200EE947F /* ch10_MasterDetail.app */;
+			productName = "ch09-tableViewCollectionView";
+			productReference = 6C535B972FA42E550041272F /* ch09-tableViewCollectionView.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F1CFCB342FB867E200EE947F /* Project object */ = {
+		6C535B8F2FA42E550041272F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 2650;
-				LastUpgradeCheck = 2650;
+				LastSwiftUpdateCheck = 1630;
+				LastUpgradeCheck = 1630;
 				TargetAttributes = {
-					F1CFCB3B2FB867E200EE947F = {
-						CreatedOnToolsVersion = 26.5;
+					6C535B962FA42E550041272F = {
+						CreatedOnToolsVersion = 16.3;
 					};
 				};
 			};
-			buildConfigurationList = F1CFCB372FB867E200EE947F /* Build configuration list for PBXProject "ch10_MasterDetail" */;
+			buildConfigurationList = 6C535B922FA42E550041272F /* Build configuration list for PBXProject "ch09-tableViewCollectionView" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = F1CFCB332FB867E200EE947F;
+			mainGroup = 6C535B8E2FA42E550041272F;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = F1CFCB3D2FB867E200EE947F /* Products */;
+			productRefGroup = 6C535B982FA42E550041272F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F1CFCB3B2FB867E200EE947F /* ch10_MasterDetail */,
+				6C535B962FA42E550041272F /* ch09-tableViewCollectionView */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F1CFCB3A2FB867E200EE947F /* Resources */ = {
+		6C535B952FA42E550041272F /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -128,7 +128,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F1CFCB382FB867E200EE947F /* Sources */ = {
+		6C535B932FA42E550041272F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -138,73 +138,63 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		F1CFCB502FB867E300EE947F /* Debug */ = {
+		6C535BAB2FA42E560041272F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = B94DPBJCXQ;
+				DEVELOPMENT_TEAM = KUAV85P94F;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ch10_MasterDetail/Info.plist;
+				INFOPLIST_FILE = "ch09-tableViewCollectionView/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "jiwoncoke.hansung.ch10-MasterDetail";
+				PRODUCT_BUNDLE_IDENTIFIER = "jmlee.hansung.ac.kr.ch09-tableViewCollectionView";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRING_CATALOG_GENERATE_SYMBOLS = YES;
-				SWIFT_APPROACHABLE_CONCURRENCY = YES;
-				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		F1CFCB512FB867E300EE947F /* Release */ = {
+		6C535BAC2FA42E560041272F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = B94DPBJCXQ;
+				DEVELOPMENT_TEAM = KUAV85P94F;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = ch10_MasterDetail/Info.plist;
+				INFOPLIST_FILE = "ch09-tableViewCollectionView/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "jiwoncoke.hansung.ch10-MasterDetail";
+				PRODUCT_BUNDLE_IDENTIFIER = "jmlee.hansung.ac.kr.ch09-tableViewCollectionView";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				STRING_CATALOG_GENERATE_SYMBOLS = YES;
-				SWIFT_APPROACHABLE_CONCURRENCY = YES;
-				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
 				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		F1CFCB522FB867E300EE947F /* Debug */ = {
+		6C535BAD2FA42E560041272F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -239,7 +229,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = B94DPBJCXQ;
+				DEVELOPMENT_TEAM = KUAV85P94F;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -257,7 +247,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -268,7 +258,7 @@
 			};
 			name = Debug;
 		};
-		F1CFCB532FB867E300EE947F /* Release */ = {
+		6C535BAE2FA42E560041272F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -303,7 +293,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = B94DPBJCXQ;
+				DEVELOPMENT_TEAM = KUAV85P94F;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = YES;
@@ -315,7 +305,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 26.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -328,25 +318,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F1CFCB372FB867E200EE947F /* Build configuration list for PBXProject "ch10_MasterDetail" */ = {
+		6C535B922FA42E550041272F /* Build configuration list for PBXProject "ch09-tableViewCollectionView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F1CFCB522FB867E300EE947F /* Debug */,
-				F1CFCB532FB867E300EE947F /* Release */,
+				6C535BAD2FA42E560041272F /* Debug */,
+				6C535BAE2FA42E560041272F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F1CFCB4F2FB867E300EE947F /* Build configuration list for PBXNativeTarget "ch10_MasterDetail" */ = {
+		6C535BAA2FA42E560041272F /* Build configuration list for PBXNativeTarget "ch09-tableViewCollectionView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F1CFCB502FB867E300EE947F /* Debug */,
-				F1CFCB512FB867E300EE947F /* Release */,
+				6C535BAB2FA42E560041272F /* Debug */,
+				6C535BAC2FA42E560041272F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F1CFCB342FB867E200EE947F /* Project object */;
+	rootObject = 6C535B8F2FA42E550041272F /* Project object */;
 }
